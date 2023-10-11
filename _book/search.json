@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "qqbook10.11",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Preface\nnew project -> Quarto Book tool -> Project Options -> Git/SVN → Version control system을 Git으로 변경 Terminal에서 git remote add origin 저장소주소 실행 Tools → Project Options → Git/SVN 화면의 Origin에서 연결 확인하기 git pull origin main 실행 -> 에러 발생하면 에러 뜬 파일 제거 후 git pull origin main 재실행 index.qmd 파일 실행 후 렌더링"
   },
   {
     "objectID": "intro.html",
